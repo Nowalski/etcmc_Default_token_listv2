@@ -1,0 +1,39 @@
+{
+  "name": "ETCMC Default List",
+  "timestamp": "2024-01-12T23:57:10.982Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/etcmc-org/etcmc-default-token-list/main/assets/blockchains/etc/mainnet/0x82A618305706B14e7bcf2592D4B9324A366b6dAd/logo.png",
+  "keywords": ["etcmc", "default"],
+  "tokens": [
+    {
+      "chainId": 61,
+      "name": "WETC",
+      "address": "0x82A618305706B14e7bcf2592D4B9324A366b6dAd",
+      "symbol": "WETC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/etcmc-org/etcmc-default-token-list/main/assets/blockchains/etc/mainnet/0x82A618305706B14e7bcf2592D4B9324A366b6dAd/logo.png"
+    },
+    {
+      "chainId": 61,
+      "name": "ETCPOW",
+      "address": "0x6c3B413C461c42a88160Ed1B1B31d6f7b02a1C83",
+      "symbol": "ETCPOW",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/etcmc-org/etcmc-default-token-list/main/assets/blockchains/etc/mainnet/0x6c3B413C461c42a88160Ed1B1B31d6f7b02a1C83/logo.png"
+    },
+    {
+      "chainId": 61,
+      "name": "CYPHER",
+      "address": "0xAccc4ae3a58E8bC3115E67eE67852044069F154A",
+      "symbol": "CYPH",
+      "decimals": 18,
+      "logoURI": "https://white-determined-jaguar-140.mypinata.cloud/ipfs/bafkreid6fhy2nko57tfbcrpbgmvaahafvv4shbvkhx3efpzlqb3oj67pkq"
+    }
+  ]
+}
+
